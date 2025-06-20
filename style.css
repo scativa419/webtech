@@ -1,0 +1,65 @@
+ span{
+            color: blue;
+            font-size: 2rem;
+            font-weight: bolder;
+            rotate: -30deg;
+            
+            background: pink;
+        }
+        img{
+            height: 400px;
+            
+        }
+        #girl{
+            border: 10px solid pink;
+        
+            position: relative;
+            left: 80px;
+            margin-left: 20px;
+        }
+        .form{
+            position: relative;
+            display: block;
+            border: 3px solid lawngreen;
+            border-radius: 3px;
+            border-spacing: 20px;
+            margin-left: 40px;
+            margin-bottom: 20px;
+
+
+        }
+        .box{
+            width: 200px;
+            height: 200px;
+            background: #ff000080;
+
+        }
+    .box1{
+        width: 200px;
+            height: 200px;
+            background: lime;
+    }
+    body{
+        background-color: chocolate;
+        background-image: url(images/b.jpg);
+        background-repeat: repeat-x;
+        background-position: center;
+        background-size: cover;  
+    }
+    .border{
+        mask-border-width: 100px;
+        border-style: dotted;
+        border-color: red;
+        
+    }
+    .height{
+        height: 100px;
+        border-style: dotted;
+        border-color: red;
+
+    }
+    .width-100px{
+        width: 100px;
+        border-style: dotted;
+        border-color: red;
+    }
